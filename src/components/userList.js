@@ -1,6 +1,6 @@
 const userList = [
     {
-        userImg: 'src/assets/avatar-mark-webber.webp',
+        userImg: '/assets/avatar-mark-webber.webp',
         userName: 'Mark Webber',
         postName: 'My first tournament today!',
         groupName: '',
@@ -9,7 +9,7 @@ const userList = [
         timePast: '1m ago'
     },
     {
-        userImg: 'src/assets/avatar-angela-gray.webp',
+        userImg: '/assets/avatar-angela-gray.webp',
         userName: 'Angela Gray',
         postName: '',
         groupName: '',
@@ -18,7 +18,7 @@ const userList = [
         timePast: '5m ago'
     },
     {
-        userImg: 'src/assets/avatar-jacob-thompson.webp',
+        userImg: '/assets/avatar-jacob-thompson.webp',
         userName: 'Jacob Thompson',
         postName: '',
         groupName: 'Chess Club',
@@ -27,7 +27,7 @@ const userList = [
         timePast: '1 day ago'
     },
     {
-        userImg: 'src/assets/avatar-rizky-hasanuddin.webp',
+        userImg: '/assets/avatar-rizky-hasanuddin.webp',
         userName: 'Risky Hasanuddin',
         postName: '',
         groupName: '',
@@ -37,17 +37,17 @@ const userList = [
         timePast: '5 days ago'
     },
     {
-        userImg: 'src/assets/avatar-kimberly-smith.webp',
+        userImg: '/assets/avatar-kimberly-smith.webp',
         userName: 'Kimberly Smith',
         postName: '',
-        postPicture: 'src/assets/image-chess.webp',
+        postPicture: '/assets/image-chess.webp',
         groupName: '',
         userAction: 'commented on your picture',
         isRead: true,
         timePast: '1 week ago'
     },
     {
-        userImg: 'src/assets/avatar-nathan-peterson.webp',
+        userImg: '/assets/avatar-nathan-peterson.webp',
         userName: 'Nathan Peterson',
         postName: '5 end-game strategies to increase your win rate',
         groupName: '',
@@ -56,7 +56,7 @@ const userList = [
         timePast: '2 weeks ago'
     },
     {
-        userImg: 'src/assets/avatar-anna-kim.webp',
+        userImg: '/assets/avatar-anna-kim.webp',
         userName: 'Anna Kim',
         postName: '',
         groupName: 'Chess Club',
